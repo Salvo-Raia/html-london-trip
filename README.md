@@ -1,5 +1,8 @@
 # Esercizio: Viaggio a Londra
 
+* Nome repo: `html-london-trip`
+
+## Esercizio
 Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
 
 1. Create una nuova cartella per l'esercizio di oggi  con il nome: `html-london-trip`
