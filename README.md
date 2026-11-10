@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+
 # 🎓 Exercise 01/50 - London trip (Viaggio a Londra)
 
 A travel-themed webpage built with HTML as part of my Boolean Tech Academy journey.
