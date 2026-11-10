@@ -34,7 +34,7 @@ PS. Please note that the section containing the table is a BONUS - it is an opti
 
 ## 🛠️ Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ## 💡 What I Learned
 
