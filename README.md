@@ -1,25 +1,45 @@
-# Esercizio: Viaggio a Londra
+# 🎓 Exercise 01/50 - London trip (Viaggio a Londra)
 
-Nome repo: `html-london-trip`
+A travel-themed webpage built with HTML as part of my Boolean Tech Academy journey.
 
-## Consegna
+## 📌 Project Overview
 
-Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
+| Property | Details |
+|:--|:--|
+| Repository | html-london-trip |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 01/50 |
 
-1. Create una nuova cartella per l'esercizio di oggi  con il nome: `html-london-trip`
+## 🎯 Assignment
 
-2. All'interno della cartella `html-london-trip`, create il file `index.html` (sarà la prima pagina ad aprirsi in un sito). <br>
-**Attenzione:** per i nomi dei file usate sempre lettere minuscole e trattini al posto degli spazi 🙂
+Recreate a London-themed webpage based on the reference provided during the Boolean Tech Academy lesson.
 
+Create a new folder for today's exercise named: html-london-trip
 
-3. All'interno della cartella html-london-trip, create una sottocartella img nella quale inserirete le immagini necessarie.
+Inside the html-london-trip folder, create a file named index.html (this will be the first page that opens on a website).
+Note: Always use lowercase letters and hyphens instead of spaces for filenames 🙂
 
-Le prime 3 immagini in alto sono nel file **img.zip** allegato, per le ultime 2 immagini in basso utilizzeremo i path assoluti, i link delle immagini sono:
+Inside the html-london-trip folder, create a subfolder named img and place the necessary images there.
 
-* https://www.abta.com/sites/default/files/styles/large/public/media/uploads/london-400x400-compressor_0.jpg
+The first 3 images (at the top) are included in the provided img.zip file. For the last 2 images (at the bottom), we will use absolute paths; here are the links:
 
-* https://imgc.allpostersimages.com/img/posters/evening-tower-bridge-and-river-thames-london_u-L-P2QVZJ0.jpg?artPerspective=n
+> [Image 1](https://www.abta.com/sites/default/files/styles/large/public/media/uploads/london-400x400-compressor_0.jpg)
+>
+> [Image 2](https://imgc.allpostersimages.com/img/posters/evening-tower-bridge-and-river-thames-london_u-L-P2QVZJ0.jpg?artPerspective=n)
 
-PS. Ricordo che la sezione con la tabella è **BONUS**: vuol dire che è una sfida non obbligatoria in cui cimentarsi dopo aver terminato il resto dell'esercizio. Trovate comunque le slides che la riguardano nella cartella Drive 😉
- 
+PS. Please note that the section containing the table is a BONUS - it is an optional challenge you can attempt once you have finished the rest of the exercise. You can find the relevant slides in the Drive folder 😉
 
+## 🛠️ Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+## 💡 What I Learned
+
+- Structuring a webpage with HTML.
+- Managing images and external resources.
+- Translating a visual reference into a webpage.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
