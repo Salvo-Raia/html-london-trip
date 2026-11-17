@@ -1,10 +1,10 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 01/50: London Trip
+# Exercise 01/50: London Trip
 
 A travel-themed webpage built with HTML, my first project at Boolean Tech Academy marking the beginning of my journey into web development.
 
-## 📌 Project Overview
+## Project Overview
 
 | Property | Details |
 |:--|:--|
@@ -13,7 +13,7 @@ A travel-themed webpage built with HTML, my first project at Boolean Tech Academ
 | Type | Exercise |
 | Exercise | 01/50 |
 
-## 🎯 Assignment
+## Assignment
 
 Recreate a London-themed webpage based on the reference provided during the Boolean Tech Academy lesson.
 
@@ -39,16 +39,16 @@ The first 3 images (at the top) are included in the provided img.zip file. For t
 
 Please note that the section containing the table is a BONUS - it is an optional challenge you can attempt once you have finished the rest of the exercise. You can find the relevant slides in the Drive folder. Throughout the course, you may occasionally come across bonus challenges in some exercises. These are optional tasks designed to help you explore additional concepts and put your skills to the test once you have completed the main assignment.
 
-## 🛠️ Technologies
+## Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## 🧠 What I learned
+## What I learned
 
 - Structuring a webpage with HTML.
 - Managing images and external resources.
 - Translating a visual reference into a webpage.
 
-## ©️ Credits
+## Credits
 
 Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
