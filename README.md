@@ -21,7 +21,7 @@ Create a new folder for today's exercise named: `html-london-trip`
 
 Inside the `html-london-trip` folder, create a file named `index.html` (this will be the first page that opens on a website).
 
-**Important:** Always use lowercase letters and hyphens instead of spaces for filename.
+**Important:** always use lowercase letters and hyphens instead of spaces for filename.
 
 Inside the `html-london-trip folder`, create a subfolder named `img` and place the necessary images there.
 
