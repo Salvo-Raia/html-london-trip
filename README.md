@@ -25,13 +25,13 @@ Inside the `html-london-trip` folder, create a file named `index.html` (this wil
 
 Inside the `html-london-trip folder`, create a subfolder named `img` and place the necessary images there.
 
-The first 3 images (at the top) are included in the provided img.zip file. For the last 2 images (at the bottom), we will use absolute paths; 
+The first 3 images (at the top) are included in the provided img.zip file. For the last 2 images (at the bottom), we will use absolute paths.
 
-**Image 1**
+**Image 1:**
 
 `https://www.abta.com/sites/default/files/styles/large/public/media/uploads/london-400x400-compressor_0.jpg`
 
-**Image 2**
+**Image 2:**
 
 `https://imgc.allpostersimages.com/img/posters/evening-tower-bridge-and-river-thames-london_u-L-P2QVZJ0.jpg?artPerspective=n`
 
