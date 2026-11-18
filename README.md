@@ -35,9 +35,9 @@ The first 3 images (at the top) are included in the provided img.zip file. For t
 
 `https://imgc.allpostersimages.com/img/posters/evening-tower-bridge-and-river-thames-london_u-L-P2QVZJ0.jpg?artPerspective=n`
 
-**Bonus**
+#### Bonus
 
-Please note that the section containing the table is a BONUS - it is an optional challenge you can attempt once you have finished the rest of the exercise. You can find the relevant slides in the Drive folder. Throughout the course, you may occasionally come across bonus challenges in some exercises. These are optional tasks designed to help you explore additional concepts and put your skills to the test once you have completed the main assignment.
+Please note that the section containing the table is a bonus: an optional challenge you can attempt once you have finished the rest of the exercise. You can find the relevant slides in the Drive folder. Throughout the course, you may occasionally come across bonus challenges in some exercises. These are optional tasks designed to help you explore additional concepts and put your skills to the test once you have completed the main assignment.
 
 ## Technologies
 
