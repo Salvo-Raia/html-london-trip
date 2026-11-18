@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# Exercise 01/50: London trip
+# Exercise 01/50: London Trip
 
 A travel-themed webpage built with HTML, my first project at Boolean Tech Academy marking the beginning of my journey into web development.
 
