@@ -8,7 +8,7 @@ A travel-themed webpage built with HTML, my first project at Boolean Tech Academ
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| html-london-trip | London Trip | Exercise | HTML Structure | 01/50 |
+| html-london-trip | London Trip | Exercise | HTML | 01/50 |
 
 ## Assignment
 
